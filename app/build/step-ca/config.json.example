@@ -1,0 +1,18 @@
+{
+    "productName": "Sable",
+    "defaultHomeserver": 0,
+    "homeserverList": [
+        "https://matrix.com"
+    ],
+    "allowCustomHomeservers": true,
+    "featuredCommunities": {
+        "openAsDefault": false,
+        "spaces": [],
+        "rooms": [],
+        "servers": []
+    },
+    "hashRouter": {
+        "enabled": false,
+        "basename": "/"
+    }
+}
